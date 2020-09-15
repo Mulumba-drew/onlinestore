@@ -1,0 +1,26 @@
+.container{background-color:darkgray;
+text-decoration-color: black;
+border: 5px solid gray;
+    padding left: auto;
+    
+    text-align: center;
+}
+h1{text-align: center;}
+
+h2{text-align: center;}
+
+
+.first{margin-top:60px;
+text-decoration-color: crimson;
+
+}
+
+
+body{background-color: black;}
+p{padding-bottom: 40px;
+margin-left: 30px;}
+p1{margin-left: 30px;
+}
+
+.second h1{color:darkgoldenrod;}
+.second{text-align:center;}
